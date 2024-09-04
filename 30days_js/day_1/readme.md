@@ -1,4 +1,4 @@
-Activity 1: Variable Declaration
+<h1>Activity 1: Variable Declaration</h1>
 
 Task 1: Declare a variable using var, assign it a number, and log the value to the console. 
 
@@ -23,3 +23,5 @@ Feature Request:
 1.Variable Types Console Log: Write a script that declares variables of different data types and logs both the value and type of each variable to the console.
 
 2. Reasignment Demo: Create a script that demonstrates the difference in behavior between let and const when it comes to reassignment.
+
+code: https://github.com/omkarcoder69/Chai_js/blob/main/30days_js/day_1/Activity_1.js
